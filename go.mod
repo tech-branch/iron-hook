@@ -3,7 +3,7 @@ module github.com/tech-branch/iron-hook
 go 1.17
 
 require (
-	github.com/gofrs/uuid v4.2.0+incompatible
+	github.com/gofrs/uuid v4.3.0+incompatible
 	go.uber.org/zap v1.23.0
 	gorm.io/driver/sqlite v1.3.6
 	gorm.io/gorm v1.23.8
