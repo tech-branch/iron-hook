@@ -6,7 +6,7 @@ require (
 	github.com/gofrs/uuid v4.3.0+incompatible
 	go.uber.org/zap v1.23.0
 	gorm.io/driver/sqlite v1.3.6
-	gorm.io/gorm v1.23.8
+	gorm.io/gorm v1.23.9
 )
 
 require (
