@@ -6,12 +6,12 @@ require (
 	github.com/gofrs/uuid v4.4.0+incompatible
 	go.uber.org/zap v1.24.0
 	gorm.io/driver/sqlite v1.3.6
-	gorm.io/gorm v1.23.10
+	gorm.io/gorm v1.25.1
 )
 
 require (
 	github.com/spf13/viper v1.15.0
-	gorm.io/driver/mysql v1.4.7
+	gorm.io/driver/mysql v1.5.1
 	gorm.io/driver/postgres v1.4.4
 	gorm.io/driver/sqlserver v1.3.2
 )
